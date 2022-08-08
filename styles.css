@@ -61,7 +61,7 @@ header img{
     border-radius: 8px;
     padding-bottom: 3rem;
   }
-  
+
   section ul{
     text-decoration: none;
     list-style: none;
@@ -142,4 +142,16 @@ header img{
     padding-bottom: 2rem;
   }
 
+
+  footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background: #db772b;
+    color: white;
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    font-family: 'Roboto Serif', serif;
+  }
 
